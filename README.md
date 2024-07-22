@@ -5,5 +5,6 @@ The Groq is used for accessing the LLMs. A free API key can be obtained https://
 
 To execute the code, also the Groq JS API needs to be installed:
 
+```
 npm install groq-sdk
-
+```
